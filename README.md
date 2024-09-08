@@ -4,7 +4,7 @@
 
 The Language Translator is a Python application that uses the `googletrans` library to provide text translation services between multiple languages. It features a user-friendly graphical interface built with `tkinter`, allowing users to easily translate text and clear the input fields.
 
-![Language Translator Screenshot]()
+![Language Translator Screenshot](image.png)
 
 ## Features
 
